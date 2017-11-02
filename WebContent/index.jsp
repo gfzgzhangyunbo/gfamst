@@ -7,6 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-<div style="border:1px solid red"> test gitbub</div>
+<div style="border:1px solid red;width:500px;height:20px;"></div>
 </body>
 </html>
